@@ -11,6 +11,10 @@ my learning process with programming languages and everything in between. Feel f
 
 ## Currently studying
 
+### Frameworks & libraries
+
+* React
+
 ### Programming languages
 
 * Elixir
