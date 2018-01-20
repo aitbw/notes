@@ -44,6 +44,7 @@ my learning process with programming languages and everything in between. Feel f
 * Component-based Rails applications (CBRA)
 * Component-based software engineering
 * Design patterns
+* Domain-driven design
 * Functional programming
 * Microservices
 * Object-oriented programming —I know the basics, but I think I've been doing it all wrong and I want to go back to basics and take the _Red Pill_ and get it right this time.
