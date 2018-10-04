@@ -1,7 +1,6 @@
-# Angel Perez's (AITBW) notes on all things CompSci
+# Angel Perez's (AITBW) notes on all things Software Engineering
 
-Hello world, this is a repo where I'll be documenting
-my learning process with programming languages and everything in between. Feel free to open an issue to discuss anything found in here —or suggest something I could use for my studies.
+Hello world, this is a repo where I'll be documenting my learning process with programming languages and everything in between. Feel free to open an issue to discuss anything found in here —or suggest something I could use for my studies.
 
 ## Menu
 
@@ -13,12 +12,11 @@ my learning process with programming languages and everything in between. Feel f
 
 ### Frameworks & libraries
 
-* React
+* None at the moment
 
 ### Programming languages
 
-* Elixir
-* JavaScript
+* Ruby
 
 ### Theory
 
@@ -28,7 +26,7 @@ my learning process with programming languages and everything in between. Feel f
 
 ## Explained in a nutshell
 
-* [Client/server-side rendered JavaScript](https://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/) —[Tom Dale](https://github.com/tomdale) is someone I really admire in the JavaScript community and this article helped me grasp the difference between SSR/CSR JavaScript and their purposes
+* [Client/server-side rendered JavaScript](https://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/) by [Tom Dale](https://github.com/tomdale)
 
 * [Concurrency vs. parallelism](https://stackoverflow.com/a/24684037/4844313) —the top three (3) answers are awesome to get these somewhat confusings terms right but the one I linked is, by far (or so I think), the best one
 
@@ -38,6 +36,8 @@ my learning process with programming languages and everything in between. Feel f
 
 ### Programming languages
 
+* Elixir
+* JavaScript
 * Rust
 * Scala
 * Swift
